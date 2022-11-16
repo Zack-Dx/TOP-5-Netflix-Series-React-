@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TOP-5-Netflix-Series-React-/static/css/main.f5d704ac.css",
+    "main.js": "/TOP-5-Netflix-Series-React-/static/js/main.b786be09.js",
+    "index.html": "/TOP-5-Netflix-Series-React-/index.html",
+    "main.f5d704ac.css.map": "/TOP-5-Netflix-Series-React-/static/css/main.f5d704ac.css.map",
+    "main.b786be09.js.map": "/TOP-5-Netflix-Series-React-/static/js/main.b786be09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d704ac.css",
+    "static/js/main.b786be09.js"
+  ]
+}
